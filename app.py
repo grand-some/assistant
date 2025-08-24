@@ -58,7 +58,7 @@ with st.sidebar:
     st.divider()
     st.header("📦 Project Repo")
     st.markdown(
-        "[View code on GitHub](https://github.com/yourname/assistant-streamlit)",
+        "[View code on GitHub](https://github.com/grand-some/assistant.git)",
         help="Replace this link with your actual repository URL."
     )
     st.caption("This demo refactors the previous agent into an OpenAI Assistant with local tools.")
